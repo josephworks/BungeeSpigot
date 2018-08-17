@@ -3,7 +3,6 @@ Bungeecord Built in to Bukkit/ Spigot / Paper!!! With more features than bungeec
 
 ## Commands
 
-text``
 ip
 
 find
@@ -25,7 +24,6 @@ glist
 bungee
 
 greload
-``
 
 ## Installation
 
