@@ -5,25 +5,25 @@ Bungeecord Built in to Bukkit/ Spigot / Paper!!! With more features than bungeec
 
 ip - Tells you a player's IP
 
-find
+find - Tells you the world the player is in
 
-alert
+alert - alerts everyone using /broadcast
 
-perms
+perms - tells you what permissiongroup you are in
 
-server
+server - lists worlds
 
-alertraw
+alertraw - alerts everyone using /broadcast
 
-end
+end - stops the server
 
-send
+send - teleports a player to a certain world
 
-glist
+glist - uses ProtocolSupport to list the players and tell you what minecraft version they are connected with.
 
-bungee
+bungee - custom message to mask bungeecord
 
-greload
+greload - reloads the server
 
 ## Installation
 
