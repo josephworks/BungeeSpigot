@@ -3,7 +3,7 @@ Bungeecord Built in to Bukkit/ Spigot / Paper!!! With more features than bungeec
 
 ## Commands
 
-ip
+ip - Tells you a player's IP
 
 find
 
