@@ -3,27 +3,27 @@ Bungeecord Built in to Bukkit/ Spigot / Paper!!! With more features than bungeec
 
 ## Commands
 
-ip - Tells you a player's IP
+/ip - Tells you a player's IP
 
-find - Tells you the world the player is in
+/find - Tells you the world the player is in
 
-alert - alerts everyone using /broadcast
+/alert - alerts everyone using /broadcast
 
-perms - tells you what permissiongroup you are in
+/perms - tells you what permissiongroup you are in
 
-server - lists worlds
+/server - lists worlds
 
-alertraw - alerts everyone using /broadcast
+/alertraw - alerts everyone using /broadcast
 
-end - stops the server
+/end - stops the server
 
-send - teleports a player to a certain world
+/send - teleports a player to a certain world
 
-glist - uses ProtocolSupport to list the players and tell you what minecraft version they are connected with.
+/glist - uses ProtocolSupport to list the players and tell you what minecraft version they are connected with.
 
-bungee - custom message to mask bungeecord
+/bungee - custom message to mask bungeecord
 
-greload - reloads the server
+/greload - reloads the server
 
 ## Installation
 
@@ -31,24 +31,24 @@ greload - reloads the server
 
 > Note: You must have the defined dependency for each command if you want it to work
 
-ip - Essentials(X)GeoIP
+/ip - Essentials(X)GeoIP
 
-find - Multiverse
+/find - Multiverse
 
-alert - None / Minecraft
+/alert - None / Minecraft
 
-perms - PermissionsEx
+/perms - PermissionsEx
 
-server - Multiverse
+/server - Multiverse
 
-alertraw - None / Minecraft
+/alertraw - None / Minecraft
 
-end - None / Minecraft
+/end - None / Minecraft
 
-send - Multiverse
+/send - Multiverse
 
-glist - ProtocolSupport
+/glist - ProtocolSupport
 
-bungee - None / Minecraft
+/bungee - None / Minecraft
 
-greload - None / Minecraft
+/greload - None / Minecraft
