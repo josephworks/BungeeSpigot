@@ -28,3 +28,25 @@ greload
 ## Installation
 
 ## Dependencies per Command
+
+ip - Essentials(X)GeoIP
+
+find - Multiverse
+
+alert - None / Minecraft
+
+perms - PermissionsEx
+
+server - Multiverse
+
+alertraw - None / Minecraft
+
+end - None / Minecraft
+
+send - Multiverse
+
+glist - ProtocolSupport
+
+bungee - None / Minecraft
+
+greload - None / Minecraft
