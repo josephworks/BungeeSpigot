@@ -29,6 +29,8 @@ greload
 
 ## Dependencies per Command
 
+> Note: You must have the defined dependency for each command if you want it to work
+
 ip - Essentials(X)GeoIP
 
 find - Multiverse
