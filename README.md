@@ -5,15 +5,25 @@ Bungeecord Built in to Bukkit/ Spigot / Paper!!! With more features than bungeec
 
 text``
 ip
+
 find
+
 alert
+
 perms
+
 server
+
 alertraw
+
 end
+
 send
+
 glist
+
 bungee
+
 greload
 ``
 
