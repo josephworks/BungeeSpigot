@@ -27,10 +27,6 @@ Bungeecord Built in to Bukkit/ Spigot / Paper!!! With more features than bungeec
 
 ## Installation
 
-### 1.13
-
-### 1.12 or earlier
-
 ## Dependencies per Command
 
 > Note: You must have the defined dependency for each command if you want it to work
