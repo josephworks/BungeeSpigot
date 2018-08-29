@@ -23,7 +23,7 @@ aliases:
   perms:
   - pex user
   server:
-  -
+  - mv list
   alertraw:
   -
   end:
