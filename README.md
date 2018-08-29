@@ -1,6 +1,11 @@
 # BungeeSpigot
 Bungeecord Built in to Bukkit/ Spigot / Paper!!! With more features than bungeecord!
 
+## Installation
+
+1. Remove your commands.yml
+2. add the latest commands.yml from https://github.com/josephworks/BungeeSpigot/releases to your server's root directory
+
 ## Commands
 
 /ip - Tells you a player's IP
@@ -24,11 +29,6 @@ Bungeecord Built in to Bukkit/ Spigot / Paper!!! With more features than bungeec
 /bungee - custom message to mask bungeecord
 
 /greload - reloads the server
-
-## Installation
-
-1. Remove your commands.yml
-2. add the latest commands.yml from https://github.com/josephworks/BungeeSpigot/releases to your server's root directory
 
 ## Dependencies per Command
 
