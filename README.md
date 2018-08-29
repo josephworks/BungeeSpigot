@@ -3,8 +3,8 @@ Bungeecord Built in to Bukkit/ Spigot / Paper!!! With more features than bungeec
 
 ## Installation
 
-1. Remove your commands.yml
-2. add the latest commands.yml from https://github.com/josephworks/BungeeSpigot/releases to your server's root directory
+1. Remove your current commands.yml after copying your current custom commands (If Any)
+2. Add the latest commands.yml from https://github.com/josephworks/BungeeSpigot/releases to your server's root directory
 
 ## Commands
 
