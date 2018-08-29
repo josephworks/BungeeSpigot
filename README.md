@@ -27,6 +27,9 @@ Bungeecord Built in to Bukkit/ Spigot / Paper!!! With more features than bungeec
 
 ## Installation
 
+1. Remove your commands.yml
+2. add the latest commands.yml from https://github.com/josephworks/BungeeSpigot/releases to your server's root directory
+
 ## Dependencies per Command
 
 > Note: You must have the defined dependency for each command if you want it to work
