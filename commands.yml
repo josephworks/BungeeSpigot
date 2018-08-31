@@ -19,13 +19,13 @@ aliases:
   find:
   - 
   alert:
-  - 
+  - "broadcast $$1-"
   perms:
   - pex user
   server:
   - mv list
   alertraw:
-  -
+  - "broadcast $$1-"
   end:
   - stop
   send:
