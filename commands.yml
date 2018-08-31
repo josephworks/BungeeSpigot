@@ -16,8 +16,6 @@ aliases:
   - version $1-
   ip:
   - whois $$1
-  find:
-  - 
   alert:
   - "broadcast $$1-"
   perms:
