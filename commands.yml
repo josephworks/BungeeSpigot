@@ -29,7 +29,7 @@ aliases:
   end:
   - stop
   send:
-  - 
+  - "mvpt $$1 $$2"
   glist:
   - protocolsupport list
   bungee:
