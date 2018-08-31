@@ -10,8 +10,6 @@ Bungeecord Built in to Bukkit/ Spigot / Paper!!! With more features than bungeec
 
 /ip - Tells you a player's IP
 
-/find - Tells you the world the player is in
-
 /alert - alerts everyone using /broadcast
 
 /perms - tells you what permissiongroup you are in
@@ -36,15 +34,13 @@ Bungeecord Built in to Bukkit/ Spigot / Paper!!! With more features than bungeec
 
 /ip - Essentials(X)GeoIP
 
-/find - Multiverse
-
-/alert - Essentials
+/alert - Essentials(X)
 
 /perms - PermissionsEx
 
 /server - Multiverse
 
-/alertraw - Essentials
+/alertraw - Essentials(X)
 
 /end - None / Minecraft
 
