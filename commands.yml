@@ -15,7 +15,7 @@ aliases:
   icanhasbukkit:
   - version $1-
   ip:
-  - 
+  - whois $$1
   find:
   - 
   alert:
