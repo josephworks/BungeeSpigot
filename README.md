@@ -6,6 +6,11 @@ Bungeecord Built in to Bukkit/ Spigot / Paper!!! With more features than bungeec
 1. Remove your current commands.yml after copying your current custom commands (If Any)
 2. Add the latest commands.yml from https://github.com/josephworks/BungeeSpigot/releases to your server's root directory
 
+### Requirements
+
+* Spigot or any fork of Spigot (Paper, TacoSpigot)
+* Multiverse
+
 ## Commands
 
 /ip - Tells you a player's IP
