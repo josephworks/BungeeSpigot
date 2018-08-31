@@ -38,13 +38,13 @@ Bungeecord Built in to Bukkit/ Spigot / Paper!!! With more features than bungeec
 
 /find - Multiverse
 
-/alert - None / Minecraft
+/alert - Essentials
 
 /perms - PermissionsEx
 
 /server - Multiverse
 
-/alertraw - None / Minecraft
+/alertraw - Essentials
 
 /end - None / Minecraft
 
