@@ -31,6 +31,6 @@ aliases:
   glist:
   - protocolsupport list
   bungee:
-  - say This Bungee is running BungeeSpigot version BungeeSpigotv1 (MC: 1.7.10 - 1.13) (Implementing API version v1.0.0)
+  - "say This Bungee is running BungeeSpigot version BungeeSpigotv1 (MC: 1.4.7 - 1.13) (Implementing API version v1.0.0)"
   greload:
   - reload
