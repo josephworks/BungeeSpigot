@@ -12,8 +12,6 @@
 command-block-overrides: []
 ignore-vanilla-permissions: false
 aliases:
-  icanhasbukkit:
-  - version $1-
   ip:
   - whois $$1
   alert:
